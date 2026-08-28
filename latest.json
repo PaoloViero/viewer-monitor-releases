@@ -1,0 +1,11 @@
+{
+    "version": "0.4.0",
+    "notes": "Aggiornamento Viewer Monitor versione 0.4.0.",
+    "pub_date": "2026-08-28T10:54:57Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMERPZnBiVW9ETlJ2UXRlWmRnSlYrNTBuYlJBbFRGelpobkNSb1RYT1orUTdRS3BOSnk1UnV2eU9sMkViNWEvaXVtaDVjUUtPRk8ySk8vRGJwRDBVOHZ0V2xJZ1h5K1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTE0NDMwCWZpbGU6Vmlld2VyIE1vbml0b3JfMC40LjBfeDY0LXNldHVwLmV4ZQpCcUFDdldYbHE4dGhjbE52bXFzNWY5ekJNSExVSzFBc2tWYlFsYlJLU1BvdnZQM3RyY3k5ZVJKV1RZTnVJWmZtc2wzZnNQT2JwcnBUOFl2OXRmeE5Cdz09Cg==",
+            "url": "https://github.com/PaoloViero/viewer-monitor-releases/releases/download/v0.4.0/Viewer.Monitor_0.4.0_x64-setup.exe"
+        }
+    }
+}

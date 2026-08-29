@@ -1,11 +1,11 @@
 {
-    "version": "0.4.0",
-    "notes": "Aggiornamento Viewer Monitor versione 0.4.0.",
-    "pub_date": "2026-08-28T10:54:57Z",
+    "version": "0.6.0",
+    "notes": "Entrate in sequenza e a cascata per i box promozioni; la barra del testo non copre piu' i contenuti (promo, immagini e video si adattano allo spazio riservato).",
+    "pub_date": "2026-08-29T09:20:28Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMERPZnBiVW9ETlJ2UXRlWmRnSlYrNTBuYlJBbFRGelpobkNSb1RYT1orUTdRS3BOSnk1UnV2eU9sMkViNWEvaXVtaDVjUUtPRk8ySk8vRGJwRDBVOHZ0V2xJZ1h5K1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTE0NDMwCWZpbGU6Vmlld2VyIE1vbml0b3JfMC40LjBfeDY0LXNldHVwLmV4ZQpCcUFDdldYbHE4dGhjbE52bXFzNWY5ekJNSExVSzFBc2tWYlFsYlJLU1BvdnZQM3RyY3k5ZVJKV1RZTnVJWmZtc2wzZnNQT2JwcnBUOFl2OXRmeE5Cdz09Cg==",
-            "url": "https://github.com/PaoloViero/viewer-monitor-releases/releases/download/v0.4.0/Viewer.Monitor_0.4.0_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMERPZnBiVW9ETlF0Q1l0Zy9ZSm9hZkxBdkZZcEZ1SmJxWVVRb2dvYXd6bUE1bG1GVFJrUGVFTVkrWENLeFMzSnNGN1R1UGVOTUtMalduODlnQ0RaeERsb3grUUhZd0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTg2MDI4CWZpbGU6Vmlld2VyIE1vbml0b3JfMC42LjBfeDY0LXNldHVwLmV4ZQpJTjE4WjFyeDJrZ0E0K0hXeEI3OW9iN05vRWw1anBUWmMyK1pmVzI0NzVmOXJRQnZHTUFCNW0rSjNJNzU5WTFMZ3JGQVdoeW1VYWFrdFVUVHNIUFNEZz09Cg==",
+            "url": "https://github.com/PaoloViero/viewer-monitor-releases/releases/download/v0.6.0/Viewer.Monitor_0.6.0_x64-setup.exe"
         }
     }
 }

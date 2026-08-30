@@ -1,11 +1,11 @@
 {
-    "version": "0.6.0",
-    "notes": "Entrate in sequenza e a cascata per i box promozioni; la barra del testo non copre piu' i contenuti (promo, immagini e video si adattano allo spazio riservato).",
-    "pub_date": "2026-08-29T09:20:28Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMERPZnBiVW9ETlF0Q1l0Zy9ZSm9hZkxBdkZZcEZ1SmJxWVVRb2dvYXd6bUE1bG1GVFJrUGVFTVkrWENLeFMzSnNGN1R1UGVOTUtMalduODlnQ0RaeERsb3grUUhZd0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTg2MDI4CWZpbGU6Vmlld2VyIE1vbml0b3JfMC42LjBfeDY0LXNldHVwLmV4ZQpJTjE4WjFyeDJrZ0E0K0hXeEI3OW9iN05vRWw1anBUWmMyK1pmVzI0NzVmOXJRQnZHTUFCNW0rSjNJNzU5WTFMZ3JGQVdoeW1VYWFrdFVUVHNIUFNEZz09Cg==",
-            "url": "https://github.com/PaoloViero/viewer-monitor-releases/releases/download/v0.6.0/Viewer.Monitor_0.6.0_x64-setup.exe"
-        }
-    }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMERPZnBiVW9ETlFhSzYxTlRxNGZTc0tCL0NMODNRWkVkNmNzUTh4MWRwa2JjQWF1bVRZKzRNSlpBNkJpRXVUTmNsRytiQnpHUnVQRVIxVUM0WUZIZ3BDYmhLM0ZGTVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDc2MzA1CWZpbGU6Vmlld2VyIE1vbml0b3JfMi4wLjBfeDY0LXNldHVwLmV4ZQpjRU9KbFZqWUlQRjYzZzhCeFdoSmNOczJBYXRzU1dsQmhGVzI1UzdaeXFRS0NUVmVmdG5mZ3RYUyt2UjNDN25VbUEvMGdUTERsSHd0MXRIUzNOVDhDQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/viewer-monitor-releases/releases/download/v2.0.0/Viewer.Monitor_2.0.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-30T07:52:10Z",
+    "version":  "2.0.0",
+    "notes":  "Aggiornamento Viewer Monitor versione 2.0.0."
 }
